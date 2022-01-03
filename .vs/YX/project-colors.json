@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a9b349e-80a2-4cb0-a95c-e6be49f72f8f": {
+      "ProjectGuid": "5a9b349e-80a2-4cb0-a95c-e6be49f72f8f",
+      "DisplayName": "YX",
+      "ColorIndex": 0
+    },
+    "42617719-ec1f-4e0c-b427-78a92c5e7470": {
+      "ProjectGuid": "42617719-ec1f-4e0c-b427-78a92c5e7470",
+      "DisplayName": "YX.Entity",
+      "ColorIndex": 1
+    },
+    "8f70b8fe-cccb-4097-9d67-5352732d1899": {
+      "ProjectGuid": "8f70b8fe-cccb-4097-9d67-5352732d1899",
+      "DisplayName": "YX.DAL",
+      "ColorIndex": 2
+    },
+    "d1eccaa6-46e4-4478-bcaa-ae3d6bcfebf0": {
+      "ProjectGuid": "d1eccaa6-46e4-4478-bcaa-ae3d6bcfebf0",
+      "DisplayName": "YX.Common",
+      "ColorIndex": 3
+    },
+    "cedf1e01-62de-4d20-baf6-4db1887152a5": {
+      "ProjectGuid": "cedf1e01-62de-4d20-baf6-4db1887152a5",
+      "DisplayName": "YX.BLL",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
